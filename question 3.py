@@ -3,6 +3,4 @@
 
 a = input('enter the input:')
 n = int(input('enter the num:'))
-
-
 print(a*n)

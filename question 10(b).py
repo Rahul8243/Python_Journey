@@ -1,4 +1,4 @@
-#Given three numbers a, b, and c. You need to find which is the greatest of them all.
+#Given three numbers a, b, and c. You need to find which is the greatest of them all and smallest of them.
 
 a = int(input('enter a:' ))
 b = int(input('enter b:'))
